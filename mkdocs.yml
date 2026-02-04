@@ -2,4 +2,20 @@ site_name: My Docs
 theme:
   name: material
 plugins:
-  - glightbox
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: none
+       slide_effect: none
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_themed: false
+       auto_caption: false
+       caption_position: bottom
+       background: white
+       shadow: true
+       manual: false
