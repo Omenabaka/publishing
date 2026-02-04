@@ -1,2 +1,5 @@
 # 1
-![Таблицы карт](Таблицы_карт.md)
+
+![Таблицы карт](docs/Таблицы_карт.md)
+
+https://omenabaka.github.io/publishing/
